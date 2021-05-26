@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; // system library
 
 namespace BA_2
 {
@@ -6,7 +6,7 @@ namespace BA_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! ;) ");
         }
     }
 }
