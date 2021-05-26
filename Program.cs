@@ -6,7 +6,11 @@ namespace BA_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! ;) ");
+            Console.WriteLine("We started C# education");
+            Console.WriteLine("We started C# education");
+            Console.Write("We started C# education");
+            Console.Write("We started C# education");
+
         }
     }
 }
